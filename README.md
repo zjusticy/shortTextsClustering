@@ -16,4 +16,4 @@ This file is used to generate the word2vec model for clustering.
 This file uses the previous model to clustering tweets in a certain period of time.
 
 
-**[Algorithm in detail](https://tong-zhu.github.io/)**
+**[Algorithm in detail](https://tong-zhu.github.io/shortTextsClustering/)**
